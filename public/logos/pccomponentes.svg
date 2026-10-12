@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60" fill="none">
+  <!-- PcComponentes Polygon Icon -->
+  <g transform="translate(10, 8)">
+    <path d="M6 14 L20 6 L34 14 L34 30 L20 38 L6 30 Z" fill="#FF6000" />
+    <path d="M20 6 L34 14 L20 22 L6 14 Z" fill="#FF7824" />
+    <path d="M20 22 L34 14 L34 30 L20 38 Z" fill="#E65300" />
+    <text x="20" y="27" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="900" fill="#FFFFFF" text-anchor="middle">Pc</text>
+  </g>
+  <!-- Text: PcComponentes -->
+  <text x="56" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="900" fill="#0F172A">Pc<tspan fill="#FF6000">Componentes</tspan></text>
+  <text x="57" y="44" font-family="system-ui, -apple-system, sans-serif" font-size="9" font-weight="700" fill="#64748B" letter-spacing="1.2">PORTUGAL</text>
+</svg>
