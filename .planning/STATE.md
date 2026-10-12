@@ -191,18 +191,19 @@
     - **Zero Emojis Auditado**: Validação com script Unicode em todos os ficheiros `.tsx` e `.ts` em `src/` confirmando 0 emojis em todo o frontend (utilização exclusiva de ícones SVG Lucide limpos).
     - **Build de Produção**: `tsc -b && vite build` concluído com 0 erros de TypeScript e bundle gerado com sucesso.
 
+- **Publicação no GitHub**:
+  - Repositório público criado com sucesso: [`Rodrigo48025/Laptop_Scraper`](https://github.com/Rodrigo48025/Laptop_Scraper).
+  - Inclui [`README.md`](file:///home/rodrigo_costa/Documents/Laptop_Scraper/README.md) completo com o ícone vetorial da tab ([`public/favicon.svg`](file:///home/rodrigo_costa/Documents/Laptop_Scraper/public/favicon.svg)), descrição do projeto, instruções completas para execução como aplicação Electron desktop ou no browser, guias de setup e segurança.
+  - Higiene e proteção total do [`.gitignore`](file:///home/rodrigo_costa/Documents/Laptop_Scraper/.gitignore) com zero bases de dados, zero credenciais, zero sessões do Playwright e zero logs.
+
 ## Active Files in Focus
-- [`backend/database.py`](file:///home/rodrigo_costa/Documents/Laptop_Scraper/backend/database.py)
-- [`backend/main.py`](file:///home/rodrigo_costa/Documents/Laptop_Scraper/backend/main.py)
-- [`backend/tests/test_pitch_dispatch.py`](file:///home/rodrigo_costa/Documents/Laptop_Scraper/backend/tests/test_pitch_dispatch.py)
-- [`backend/tests/test_warranty_condition.py`](file:///home/rodrigo_costa/Documents/Laptop_Scraper/backend/tests/test_warranty_condition.py)
-- [`src/components/LaptopScraperView.tsx`](file:///home/rodrigo_costa/Documents/Laptop_Scraper/src/components/LaptopScraperView.tsx)
-- [`src/components/SettingsView.tsx`](file:///home/rodrigo_costa/Documents/Laptop_Scraper/src/components/SettingsView.tsx)
+- [`README.md`](file:///home/rodrigo_costa/Documents/Laptop_Scraper/README.md)
 - [`.gitignore`](file:///home/rodrigo_costa/Documents/Laptop_Scraper/.gitignore)
+- [`backend/main.py`](file:///home/rodrigo_costa/Documents/Laptop_Scraper/backend/main.py)
+- [`src/components/LaptopScraperView.tsx`](file:///home/rodrigo_costa/Documents/Laptop_Scraper/src/components/LaptopScraperView.tsx)
 
 ## Immediate Next Steps
-1. Apresentar relatório crítico pré-GitHub detalhado ao utilizador.
-2. Confirmar se o utilizador deseja que façamos o commit inicial `git commit` ou configure o remote do GitHub.
+1. Validar feedback do utilizador e monitorizar o daemon em produção.
 
 
 
