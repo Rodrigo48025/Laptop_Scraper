@@ -195,6 +195,4 @@ npm run build
 
 ## Segurança & Privacidade
 
-- **Ficheiros Sensíveis Ignorados**: O ficheiro `.gitignore` foi configurado de forma estrita para impedir o envio acidental de ficheiros de base de dados locais (`*.db`), sessões autenticadas ou cookies de navegação (`storage_state_*.json`, `playwright_profile/`), registos de log (`*.log`) e ficheiros de configuração de utilizador.
 - **Armazenamento 100% Local**: Todos os dados recolhidos e preferências são mantidos exclusivamente na base de dados SQLite local na sua máquina, sem qualquer envio para servidores ou telemetrias de terceiros.
-- **Design Limpo**: Cumprimento rigoroso de padrões visuais modernos, tema claro de alto contraste e utilização exclusiva de ícones SVG.
